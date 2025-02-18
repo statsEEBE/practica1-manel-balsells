@@ -28,4 +28,4 @@ Fi <- cumsum(fi)
 cbind(ni, fi, Ni, Fi)
 
 data <- mis_dades
-hist(data$mpg) # Solucio problema 2
+hist(data$mpg) # Solucio problema 2 ficar el hist...
